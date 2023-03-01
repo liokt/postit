@@ -19,7 +19,7 @@ import androidx.navigation.NavController
 import com.example.postit.feature_note.presentation.notes.NotesEvent
 import com.example.postit.feature_note.presentation.notes.NotesViewModel
 import kotlinx.coroutines.launch
-import java.lang.reflect.Modifier
+import androidx.compose.ui.Modifier
 
 @Composable
 fun NotesScreen(
